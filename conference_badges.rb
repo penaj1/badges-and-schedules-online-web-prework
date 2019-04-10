@@ -4,3 +4,5 @@ def badge_maker(name)
   name = Arel
 end
 
+def
+
