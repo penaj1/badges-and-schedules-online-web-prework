@@ -4,5 +4,5 @@ def badge_maker(name)
   name = Arel
 end
 
-def
+def batch_badge_creator(attendees)
 
