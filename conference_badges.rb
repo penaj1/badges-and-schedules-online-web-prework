@@ -6,4 +6,5 @@ end
 
 def batch_badge_creator(attendees)
   badge_maker = "Edsger, Ada, Charles, Alan, Grace, Linus, Matz"
+end
 
